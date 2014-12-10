@@ -22,7 +22,7 @@
     "q": "~0.9.7",
     "underscore": "~1.5.2",
     "express": "~3.4.0",
-    "underscore-data": "git://github.com/dundalek/underscore-data.git"
+    "underscore-data": "git://github.com/dvv/underscore-data.git"
   },
   "devDependencies": {
     "qunit": "~0.5.16",
